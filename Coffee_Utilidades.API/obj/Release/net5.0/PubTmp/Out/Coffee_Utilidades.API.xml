@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Coffee_Utilidades.API</name>
+    </assembly>
+    <members>
+        <member name="M:Coffee_Utilidades.API.Controllers.v1.Coffee.Index">
+            <summary>
+            Verifica se a API 1.0 está funcionando
+            </summary>
+            <param name="Index"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Coffee_Utilidades.API.Controllers.v1.Coffee.Indexx">
+            <summary>
+            Verifica se a API 1.1 está funcionando
+            </summary>
+            <param name="Index_1.1.1"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Coffee_Utilidades.API.Controllers.v1.Produtos.Index">
+            <summary>
+            Verifica se a API 1.0 está funcionando
+            </summary>
+            <param name="Index"></param>
+            <returns></returns>
+            
+        </member>
+    </members>
+</doc>

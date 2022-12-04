@@ -1,0 +1,15 @@
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\bin\Release\net5.0\Coffee_Utilidades.Core.deps.json
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\bin\Release\net5.0\Coffee_Utilidades.Core.dll
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\bin\Release\net5.0\Coffee_Utilidades.Core.pdb
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\bin\Release\net5.0\Coffee_Utilidades.DataModel.dll
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\bin\Release\net5.0\Coffee_Utilidades.DataModel.pdb
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.csproj.AssemblyReference.cache
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.AssemblyInfoInputs.cache
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.AssemblyInfo.cs
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.csproj.CopyComplete
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.dll
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\refint\Coffee_Utilidades.Core.dll
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\Coffee_Utilidades.Core.pdb
+C:\WORKSPACE\PROJETOS_VSS\API\Coffee_Utilidades.API\Coffee_Utilidades.Core\obj\Release\net5.0\ref\Coffee_Utilidades.Core.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entity\Response\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coffee_Utilidades.DataModel\Coffee_Utilidades.DataModel.csproj" />
+  </ItemGroup>
+
+</Project>
